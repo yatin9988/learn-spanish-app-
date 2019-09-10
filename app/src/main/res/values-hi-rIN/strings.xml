@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">स्पेनिश सीखना</string>
+    <string name="colors">रंग</string>
+    <string name="family">परिवार</string>
+    <string name="number">संख्या</string>
+    <string name="phrases">मुहावरे</string>
+    <string name="one">एक</string>
+    <string name="two">दो</string>
+    <string name="three">तीन</string>
+    <string name="four">चार</string>
+    <string name="five">पंज</string>
+    <string name="six">छह</string>
+    <string name="seven">सात</string>
+    <string name="eight">आठ</string>
+    <string name="nine">नौ</string>
+    <string name="ten">दस</string>
+    <string name="red">लाल</string>
+    <string name="green">हरा</string>
+    <string name="brown">भूरा</string>
+    <string name="gray">धूसर</string>
+    <string name="black">काली</string>
+    <string name="white">सफेद</string>
+    <string name="dusty_yellow">धूल भरा पीला</string>
+    <string name="mustard_yellow">सरसों का पीला</string>
+    <string name="father">पिता</string>
+    <string name="mother">मां</string>
+    <string name="son">बेटा</string>
+    <string name="daughter">बेटी</string>
+    <string name="older_brother">बड़ा भाई</string>
+    <string name="younger_brother">छोटा भाई</string>
+    <string name="older_sister">बड़ी बहन</string>
+    <string name="younger_sister">छोटी बहन</string>
+    <string name="grandmother">दादी मा</string>
+    <string name="grandfather">दादा</string>
+    <string name="a">तुम कहाँ जा रहे हो?</string>
+    <string name="b">तुम्हारा नाम क्या हे?</string>
+    <string name="c">मेरा नाम है</string>
+    <string name="d">आप कैसा महसूस कर रहे है?</string>
+    <string name="e">मैं अच्छा महसूस कर रहा हूँ</string>
+    <string name="f">क्या तुम आ रहे हो?</string>
+    <string name="g">हाँ मैं आ रहा हूँ</string>
+    <string name="h">मैं आ रहा हूँ</string>
+    <string name="i">चलिए चलते हैं</string>
+    <string name="j">यहाँ आओ</string>
+</resources>
