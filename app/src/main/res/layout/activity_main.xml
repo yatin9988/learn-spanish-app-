@@ -14,7 +14,7 @@
     <TextView
         android:onClick="openFamily"
         style="@style/text"
-        android:background="#379237"
+        android:background="#379236"
         android:text="@string/family"/>
     <TextView
         android:onClick="openColors"
